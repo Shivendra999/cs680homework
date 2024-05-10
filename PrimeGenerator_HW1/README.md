@@ -1,1 +1,0 @@
-# PrimeGenerator_HW1
