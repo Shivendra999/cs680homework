@@ -1,1 +1,0 @@
-# CarEqualityCheck_HW3
