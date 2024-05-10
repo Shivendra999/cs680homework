@@ -1,1 +1,0 @@
-# SingletonPrimeGenerator_HW2
